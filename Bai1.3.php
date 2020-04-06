@@ -4,7 +4,7 @@
 	<title>Bảng cửu chương</title>
 </head>
 <body>
-	<p align="center"><b>Bảng cửu chương</b></p>
+	<p><b>Bảng cửu chương</b></p>
 	<table width="800px">  
 		<?php  
 			for($i = 1; $i <= 10; $i++){ 
